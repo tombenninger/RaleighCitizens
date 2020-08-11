@@ -4,7 +4,7 @@
 
 I don't know exactly what this will turn into, but I just wanted to start collecting resources for the citizens of Raleigh. - @tomben
 
-## Useful Highlevel Links
+## Links to Government Layers
 
 * [The City of Raleigh Government](https://raleighnc.gov/)
 * [Wake County Government](https://www.nc.gov/) | [Wake County Public School System](https://www.wcpss.net/)
@@ -33,3 +33,9 @@ I don't know exactly what this will turn into, but I just wanted to start collec
 | Southeast |  |  |  |  |
 | Southwest |  |  |  |  |
 | West |  |  |  |  |
+
+## Open Government Resources
+
+* [Open Raleigh](https://raleighnc.gov/services/content/ITechAdmin/Articles/Open.html) - The City of Raleigh is a partner in the open government community and strives to become a worldwide model for an open source city.
+* [NC Open Pass](http://ncopenpass.com/) - NC Open Pass is an event series focused on improving our communities using open innovation and open data with neighbors and government partners. [NC Open Pass Twitter](https://twitter.com/NCOpenPass).
+* [Raleigh Brigade](https://twitter.com/RaleighBrigade) - Raleigh's Code for America Brigade. Passionate about civic innovation working with Raleigh and Wake County.
