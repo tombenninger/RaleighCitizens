@@ -15,6 +15,7 @@ I don't know exactly what this will turn into, but I just wanted to start collec
     The Raleigh CACs are no longer supported by the Raleigh government, but the communications channels are still used for some things.
 
 | CAC | Email List | Website | Twitter | Facebook |
+| --- | --- | --- | --- | --- |
 | Central |  |  |  |  |
 | East |  |  |  |  |
 | Falls of Neuse |  |  |  |  |
