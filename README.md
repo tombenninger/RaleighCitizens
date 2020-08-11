@@ -21,7 +21,7 @@ I don't know exactly what this will turn into, but I just wanted to start collec
 | Falls of Neuse |  |  |  |  |
 | Five Points | [FivePointsCAC](https://groups.yahoo.com/neo/groups/FivePointsCAC/info) Yahoo Group | [@fivepointscac](https://twitter.com/fivepointscac) | [fivepointscac](https://www.facebook.com/fivepointscac) | defunct |
 | Glenwood |  |  |  |  |
-| Hillsborough |  |  | https://www.facebook.com/wadecac |  |
+| Hillsborough-Wade |  |  | [wadecac](https://www.facebook.com/wadecac) |  |
 | Modecai |  |  |  |  |
 | North |  |  |  |  |
 | Northeast |  |  |  |  |
@@ -32,5 +32,4 @@ I don't know exactly what this will turn into, but I just wanted to start collec
 | South Central |  |  |  |  |
 | Southeast |  |  |  |  |
 | Southwest |  |  |  |  |
-| Wade |  |  |  |  |
 | West |  |  |  |  |
