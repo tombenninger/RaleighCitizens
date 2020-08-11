@@ -19,9 +19,10 @@ I don't know exactly what this will turn into, but I just wanted to start collec
 | Central |  |  |  |  |
 | East |  |  |  |  |
 | Falls of Neuse |  |  |  |  |
-| Five Points | [FivePointsCAC](https://groups.yahoo.com/neo/groups/FivePointsCAC/info) Yahoo Group | [@fivepointscac](https://twitter.com/fivepointscac) | [fivepointscac](https://www.facebook.com/fivepointscac) | defunct |
+| Five Points | [FivePointsCAC](https://groups.yahoo.com/neo/groups/FivePointsCAC/info) Open Yahoo Group | [@fivepointscac](https://twitter.com/fivepointscac) | [fivepointscac](https://www.facebook.com/fivepointscac) | defunct |
 | Glenwood |  |  |  |  |
 | Hillsborough-Wade |  |  | [wadecac](https://www.facebook.com/wadecac) |  |
+| Midtown | contactmcac@gmail.com |  | [MidtownCAC](https://www.facebook.com/MidtownCAC/) |  |
 | Modecai |  |  |  |  |
 | North |  |  |  |  |
 | Northeast |  |  |  |  |
