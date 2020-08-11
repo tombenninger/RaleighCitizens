@@ -14,14 +14,14 @@ I don't know exactly what this will turn into, but I just wanted to start collec
 
     The Raleigh CACs are no longer supported by the Raleigh government, but the communications channels are still used for some things.
 
-| CAC | Email List | Website | Twitter | Facebook |
+| CAC | Email List | Twitter | Facebook | Website |
 | --- | --- | --- | --- | --- |
 | Central |  |  |  |  |
 | East |  |  |  |  |
 | Falls of Neuse |  |  |  |  |
-| Five Points | FivePointsCAC-subscribe@yahoogroups.com | defunct | @fivepointscac | www.facebook.com/fivepointscac |
+| Five Points | https://groups.yahoo.com/neo/groups/FivePointsCAC/info | @fivepointscac | www.facebook.com/fivepointscac | defunct |
 | Glenwood |  |  |  |  |
-| Hillsborough |  |  |  | https://www.facebook.com/wadecac |
+| Hillsborough |  |  | https://www.facebook.com/wadecac |  |
 | Modecai |  |  |  |  |
 | North |  |  |  |  |
 | Northeast |  |  |  |  |
